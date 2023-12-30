@@ -8,5 +8,6 @@
     <li>CONTACT BOOK</li>
 </ul>
 <p>Ensure you check the individual README file of each directory to know more about the project</p>
+<p>All codes in this project are PYCODESTYLE validated</p>
 <p>Dont forget to star the repository and follow me on github.</p>
 <em>THANK YOU</em>
