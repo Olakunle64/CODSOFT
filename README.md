@@ -1,5 +1,5 @@
 <h2>An Internship program at CODSOFT</h2>
-<h4>This directory contains four(4) projects which includes:</h4>
+<h4>This directory contains five(5) projects which includes:</h4>
 <ul>
     <li>TO-DO-LIST</li>
     <li>CALCUCLATOR</li>
