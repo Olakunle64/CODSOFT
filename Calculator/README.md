@@ -1,5 +1,5 @@
 <h2>CALCULATOR</h2>
-<h4>This project focuses on creating a calculator that solves simple arithemetic operations</h4>
+<h4>This project focuses on creating a calculator(both console and GUI) that solves simple arithemetic operations</h4>
 <p>HOW TO START THE CALCULATOR</p>
 <ul>
     <li>Step 1: clone the repository and navigate to Calculator directory</li>
